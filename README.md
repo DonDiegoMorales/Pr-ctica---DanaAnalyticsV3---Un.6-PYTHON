@@ -37,7 +37,7 @@ Se han trabajado diferentes problemas enfocados en lógica, manipulación de dat
 
 ### Estructura del proyecto
 
-Pr-ctica-Data-Analytics-V6---Python/ │ ├── README.md ├── ejercicios.py ├── ejercicios.ipynb (opcional)
+Pr-ctica-Data-Analytics-V6---Python/ │ ├── README.md ├── EnunciadoDataProjectPython.pdf ├── ProyectoPython-Un6-DataAnalyticsV3.ipynb (opcional)
 
 ### Contenido
 
